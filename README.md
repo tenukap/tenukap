@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @tenukap
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email tenukaperera1025@gmail.com
+# Hey welcome to my github profile
+- my name is Tenuka 🐼 <br>
+- im currently learning python <br>
+- im a beginner in tech and is learning <br>
+- care free to check on my current respitories and see my progress<br>
+- my email is tenukaperera1025@gmail.com
+
 
 <!---
 tenukap/tenukap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
