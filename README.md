@@ -1,9 +1,15 @@
-# Hey welcome to my github profile
-- my name is Tenuka 🐼 <br>
+# Hey I Am Tenuka 🐼
+- im 17 years old and im based in Sri Lanka currently in highschool <br>
 - im currently learning python <br>
 - im a beginner in tech and is learning <br>
 - care free to check on my current respitories and see my progress<br>
 - my email is tenukaperera1025@gmail.com
+
+# My Intrests 💫
+- i love working out 💪🏻
+- im very intrested in learning coding and concepts
+- love to gain tips from people on my projects
+  
 
 
 <!---
