@@ -1,5 +1,5 @@
 # Hey I Am Tenuka 🐼
-- im 17 years old and im based in Sri Lanka currently in highschool <br>
+- im 17 years old and im based in Sri Lanka <br>
 - im currently learning python <br>
 - im a beginner in tech and is learning <br>
 - care free to check on my current respitories and see my progress<br>
