@@ -3,7 +3,7 @@
 - im currently learning python <br>
 - im a beginner in tech and is learning <br>
 - care free to check on my current respitories and see my progress<br>
-- my email is tenukaperera1025@gmail.com
+- my email is pavinperera2007@gmail.com
 
 # My Intrests 💫
 - i love working out 💪🏻
